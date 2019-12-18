@@ -9,7 +9,7 @@ tergantung pada jumlah situs yang telah ditentukan oleh kamu :V, ini tidak berba
 dan ini hanya metode upload file saja
 
 **screnshoot:**
-![1](https://github.com/mbetwierzaetha/MBET-502/edit/master/README.md)
+![1](https://1.bp.blogspot.com/-oJuvkGPG-zU/Xfp-2QD1NhI/AAAAAAAAAc4/FLCHbP6DGXsoWieElwElyiExmXy1mm4-QCLcBGAsYHQ/s1600/aox.png)
 
 **how to install and usage:**
 
