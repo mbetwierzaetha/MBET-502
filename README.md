@@ -18,7 +18,7 @@ dan ini hanya metode upload file saja
 * `pip2 install requests`
 * `pkg install git`
 * `git clone https://github.com/mbetwierzaetha/MBET-502`
-* `cd AOXdeface`
+* `cd MBET-502`
 * `python2 aox.py`
 
 **Linux:**
@@ -27,7 +27,7 @@ dan ini hanya metode upload file saja
 * `pip install requests`
 * `apt-get install git`
 * `git clone https://github.com/mbetwierzaetha/MBET-502`
-* `cd AOXdeface`
+* `cd MBET-502`
 * `python aox.py`
 
 **NOTE:** before using this tool, put your deface script with the aox.py file, edit the file 'target.txt' and enter the target url
