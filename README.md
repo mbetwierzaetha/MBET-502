@@ -34,4 +34,5 @@ dan ini hanya metode upload file saja
 
 
 [YOUTUBE](https://youtu.be/iRYoqjAIcFg) <br>
-[TLEGRAM](https://t.me/Wierzaetha)
+[TLEGRAM](https://t.me/Wierzaetha) <br>
+<center> <audio autoplay="autoplay" controls="controls" src="https://6.top4top.net/m_1433wfvy20.mp3" type="audio/mpeg"></audio> </centet>
